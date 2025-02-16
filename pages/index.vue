@@ -79,7 +79,7 @@ onMounted( () => {
   </section>
 
   <section id="section2" class="section2 flex justify-center items-center w-full h-dvh relative overflow-hidden">
-    <div class="containerElement relative flex justify-center items-center bg-[#2054FA] w-full h-full text-white overflow-hidden">
+    <div class="containerElement relative flex justify-center items-center bg-[#2054FA] w-[90%] h-[90%] text-white overflow-hidden">
       <img class="absolute image" src="/assets/Group 7.png" alt="Animated Image">
       <div class="items relative justify-evenly items-center w-full flex">
         <h1 class="text-6xl absolute">Agency</h1>
